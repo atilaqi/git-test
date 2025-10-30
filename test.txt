@@ -1,3 +1,7 @@
 add file
 
 this is b1
+
+squash
+
+rebase
