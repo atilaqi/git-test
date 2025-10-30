@@ -5,3 +5,7 @@ this is b1
 squash
 
 rebase
+
+learn git
+
+learn typesript
